@@ -3,5 +3,8 @@ second commit
 third commit
 fourth commit
 fifth commit
+<<<<<<< HEAD
 reverting
 sixth commit
+=======
+>>>>>>> 2eabdde (Revert "reverting")
